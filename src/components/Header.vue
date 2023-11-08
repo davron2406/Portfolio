@@ -10,7 +10,7 @@
                    <a href="#home">Home</a>
                 </li>
                 <li class="header__menu-item" @click="onClick">
-                    <a href="#intro">Intro</a>
+                    <a href="#intro">Intro1</a>
                 </li>
                 <li class="header__menu-item" @click="onClick">
                     <a href="#about">About</a>

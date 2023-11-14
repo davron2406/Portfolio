@@ -7,16 +7,16 @@
             <div class="team__card">
                <div class="team__member__info">
                     <div class="team__member__img">
-                        <img src="../assets/images/client.jpg" alt="">
+                        <img src="../assets/images/odil.png" alt="">
                     </div>
 
                     <div class="team__member__name">
-                        Diana Johnson
+                        Abdurashidov Odilbek
                     </div>
                </div>
 
                 <div class="team__member__fullinfo">
-                    <h1 class="team__member__fullname">Dima Johnson</h1>
+                    <h1 class="team__member__fullname">Abdurashidov Odilbek</h1>
                     <p class="team__member__position">Web Developer</p>
                     <span></span>
                     <p>Curabitur nulla odio bibendum sit amet facilisis sed lobortis id, just Donec ollic itudin facil isis nulla. Donec eget ligula.</p>
@@ -44,16 +44,16 @@
             <div class="team__card">
                <div class="team__member__info">
                     <div class="team__member__img">
-                        <img src="../assets/images/client.jpg" alt="">
+                        <img src="../assets/images/azim.png" alt="">
                     </div>
 
                     <div class="team__member__name">
-                        Diana Johnson
+                        Ochilov Azimjon
                     </div>
                </div>
 
                 <div class="team__member__fullinfo">
-                    <h1 class="team__member__fullname">Dima Johnson</h1>
+                    <h1 class="team__member__fullname">Ochilov Azimjon</h1>
                     <p class="team__member__position">Web Developer</p>
                     <span></span>
                     <p>Curabitur nulla odio bibendum sit amet facilisis sed lobortis id, just Donec ollic itudin facil isis nulla. Donec eget ligula.</p>
@@ -245,11 +245,13 @@
 
     .team__member__img{
         width: 100%;
+        height: 100%;
         margin-bottom: 0;
     }
 
     .team__member__img img{
         width: 100%;
+        height: 100%;
     }
 
     .team__member__name{
